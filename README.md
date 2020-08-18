@@ -33,6 +33,7 @@ I've cut a lot of corners to have this work. These are:
 * there are inefficient piece of code all around
 * part of the program are in Portuguese. 
 
-## Background Music
+## Credits
 
-The music was made for snes by Edson Leal -> more of his work https://soundcloud.com/edinhu/tracks 
+* __Background Music__  - the music was made for snes by Edson Leal -> more of his work https://soundcloud.com/edinhu/tracks 
+* __Graphic Assets__ - original game from Sega
