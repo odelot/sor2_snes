@@ -29,6 +29,6 @@ You can download the file sor2_snes.sfc and try it on an emulator or on real har
 ## Caveats
 
 I've cut a lot of corners to have this work. These are:
-** the sprites are 64x64 - I am not using meta-sprites. It is not efficient memory wise.
-** there are inefficient piece of code all around
-** part of the program are in Portuguese. 
+* the sprites are 64x64 - I am not using meta-sprites. It is not efficient memory wise.
+* there are inefficient piece of code all around
+* part of the program are in Portuguese. 
