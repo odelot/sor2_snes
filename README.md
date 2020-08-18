@@ -13,7 +13,7 @@ With the configured environment just type __make__ to compile it
 
 ## Test ROM
 
-You can download the file sor2_snes.sfc and try it on an emulator or on real hardware using a flashcart
+You can download the file __sor2_snes.sfc__ and try it on an emulator or on real hardware using a flashcart
 
 ## Features
 
