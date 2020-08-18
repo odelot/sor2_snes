@@ -32,3 +32,7 @@ I've cut a lot of corners to have this work. These are:
 * the sprites are 64x64 - I am not using meta-sprites. It is not efficient memory wise.
 * there are inefficient piece of code all around
 * part of the program are in Portuguese. 
+
+## Background Music
+
+The music was made for snes by Edson Leal -> more of his work https://soundcloud.com/edinhu/tracks 
